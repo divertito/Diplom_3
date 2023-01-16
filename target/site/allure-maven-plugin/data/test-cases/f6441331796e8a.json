@@ -1,0 +1,56 @@
+{
+  "uid" : "f6441331796e8a",
+  "name" : "Выход по кнопке «Выйти» в личном кабинете.",
+  "fullName" : "praktikum.LogOutTest.switchToAccountTest",
+  "historyId" : "3485072542f9bd07bcde0c888841d39f",
+  "time" : {
+    "start" : 1673799218441,
+    "stop" : 1673799222229,
+    "duration" : 3788
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.LogOutTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "switchToAccountTest"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.LogOutTest"
+  }, {
+    "name" : "host",
+    "value" : "192-168-1-54.local"
+  }, {
+    "name" : "thread",
+    "value" : "17312@192-168-1-54.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6441331796e8a.json",
+  "parameterValues" : [ ]
+}

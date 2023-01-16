@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "3c293549226f955e7d3923302998197d",
+    "name" : "praktikum.LoginPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "af54e02818cf441559402d4fb595a687",
+    "name" : "praktikum.ConstructorTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "ecc09ec75b13079f9fb15b3260552e39",
+    "name" : "praktikum.RegistrationPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "aa7d7f076f16a1515cbfc631db92a732",
+    "name" : "praktikum.LogOutTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

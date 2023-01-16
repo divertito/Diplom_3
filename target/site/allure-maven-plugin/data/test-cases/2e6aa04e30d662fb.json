@@ -1,0 +1,56 @@
+{
+  "uid" : "2e6aa04e30d662fb",
+  "name" : "Переход в личный кабинет и возврат в конструктор",
+  "fullName" : "praktikum.ConstructorTest.switchToConstructorTest",
+  "historyId" : "4830485487507ec366e57ef99f6b3608",
+  "time" : {
+    "start" : 1673799214896,
+    "stop" : 1673799216483,
+    "duration" : 1587
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.ConstructorTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "switchToConstructorTest"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.ConstructorTest"
+  }, {
+    "name" : "host",
+    "value" : "192-168-1-54.local"
+  }, {
+    "name" : "thread",
+    "value" : "17312@192-168-1-54.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e6aa04e30d662fb.json",
+  "parameterValues" : [ ]
+}

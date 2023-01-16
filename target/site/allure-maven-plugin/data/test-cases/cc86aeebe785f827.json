@@ -1,0 +1,56 @@
+{
+  "uid" : "cc86aeebe785f827",
+  "name" : "Регистрация нового пользователя с невалидным паролем",
+  "fullName" : "praktikum.RegistrationPageTest.registrationWithIncorrectPasswordTest",
+  "historyId" : "e9fd44bd952277ef244ed0800c1c97c2",
+  "time" : {
+    "start" : 1673799227259,
+    "stop" : 1673799235950,
+    "duration" : 8691
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.RegistrationPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "registrationWithIncorrectPasswordTest"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.RegistrationPageTest"
+  }, {
+    "name" : "host",
+    "value" : "192-168-1-54.local"
+  }, {
+    "name" : "thread",
+    "value" : "17312@192-168-1-54.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc86aeebe785f827.json",
+  "parameterValues" : [ ]
+}
