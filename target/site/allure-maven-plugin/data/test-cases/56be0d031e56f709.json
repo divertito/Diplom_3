@@ -1,0 +1,56 @@
+{
+  "uid" : "56be0d031e56f709",
+  "name" : "Регистрация нового пользователя",
+  "fullName" : "praktikum.RegistrationPageTest.registrationUsingAccountButtonTest",
+  "historyId" : "fd63445ee17dc7b4e2489939d94ca9d5",
+  "time" : {
+    "start" : 1673799240962,
+    "stop" : 1673799244160,
+    "duration" : 3198
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.RegistrationPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "registrationUsingAccountButtonTest"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.RegistrationPageTest"
+  }, {
+    "name" : "host",
+    "value" : "192-168-1-54.local"
+  }, {
+    "name" : "thread",
+    "value" : "17312@192-168-1-54.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56be0d031e56f709.json",
+  "parameterValues" : [ ]
+}
